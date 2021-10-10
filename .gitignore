@@ -4,4 +4,9 @@
 # all output files
 *.out
 
+# all trial files
+#
+# Trial files are the unpolished or uncomplete files that exists.
+*.trial.c
+
 Ref
