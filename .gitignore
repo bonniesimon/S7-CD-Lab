@@ -1,0 +1,7 @@
+# all pdf files
+*.pdf
+
+# all output files
+*.out
+
+Ref
