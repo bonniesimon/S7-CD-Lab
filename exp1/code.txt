@@ -1,0 +1,7 @@
+void main()
+{
+	int k, l, m;
+	if(k>= l)
+	k = l + 2;
+	printf(k);	
+}
